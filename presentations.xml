@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<presentations version="7">
+	<presentation src="C:\Users\putri\OneDrive\Documents\tugas papi tono 2\ppt\materi baru\Dandelion potret diri .pptx">
+		<resource src="interactions\intr1.visuals"/>
+		<resource src="interactions\intr2.visuals"/>
+		<resource src="interactions\intr3.visuals"/>
+		<resource src="quiz\quiz1.quiz"/>
+		<resource src="quiz\quiz2.quiz"/>
+		<resource src="quiz\quiz3.quiz"/>
+	</presentation>
+	<presentation src="C:\Users\putri\OneDrive\Documents\tugas papi tono 2\ppt\materi baru\Dandelion_potret diri.pptx">
+		<resource src="interactions\intr1.visuals"/>
+		<resource src="interactions\intr2.visuals"/>
+		<resource src="interactions\intr3.visuals"/>
+		<resource src="quiz\quiz1.quiz"/>
+		<resource src="quiz\quiz2.quiz"/>
+		<resource src="quiz\quiz3.quiz"/>
+	</presentation>
+</presentations>
